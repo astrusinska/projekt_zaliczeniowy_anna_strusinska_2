@@ -1,2 +1,3 @@
-# projekt_zaliczeniowy_anna_strusinska_2
-projekt_zaliczeniowy_anna_strusinska_2
+# Projekt zaliczeniowy 
+## Grupa 2
+### Anna
